@@ -7,6 +7,8 @@
     { "id": "landing-page-copy", "path": "skills/landing-page-copy.json" },
     { "id": "sales-discovery-script", "path": "skills/sales-discovery-script.json" },
     { "id": "one-pager", "path": "skills/one-pager.json" },
-    { "id": "risk-mitigation-playbook", "path": "skills/risk-mitigation-playbook.json" }
+    { "id": "risk-mitigation-playbook", "path": "skills/risk-mitigation-playbook.json" },
+    { "id": "competitive-matrix", "path": "skills/competitive-matrix.json" },
+    { "id": "metric-dashboard", "path": "skills/metric-dashboard.json" }
   ]
 }
