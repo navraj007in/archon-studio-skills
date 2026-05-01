@@ -44,6 +44,7 @@ A skill's `outputs[].renderer` must match a renderer the host app has registered
 | Key | Format | Notes |
 |---|---|---|
 | `pitch-deck-pdf` | pdf | Landscape A4, one slide per page; requires `kind: 'pitchdeck'` spec |
+| `pitch-deck-pptx` | pptx | Editable 16:9 PowerPoint deck; speaker notes use the native notes pane |
 | `markdown-pdf` | pdf | Portrait A4 wrapper around the rendered README.md |
 | `markdown-passthrough` | md | Emits README.md bytes verbatim |
 | `card-docx` | docx | Walks a `kind: 'card'` NodeSpec into a Word document |
