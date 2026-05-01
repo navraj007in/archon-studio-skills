@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "releaseTag": "main",
+  "skills": [
+    { "id": "pitch-deck", "path": "skills/pitch-deck.json" },
+    { "id": "customer-interview-guide", "path": "skills/customer-interview-guide.json" },
+    { "id": "landing-page-copy", "path": "skills/landing-page-copy.json" },
+    { "id": "sales-discovery-script", "path": "skills/sales-discovery-script.json" },
+    { "id": "one-pager", "path": "skills/one-pager.json" },
+    { "id": "risk-mitigation-playbook", "path": "skills/risk-mitigation-playbook.json" }
+  ]
+}
